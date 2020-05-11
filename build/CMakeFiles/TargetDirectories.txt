@@ -1,0 +1,3 @@
+/home/ahmed/Desktop/Cpp-System-Monitor-Project/build/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Desktop/Cpp-System-Monitor-Project/build/CMakeFiles/edit_cache.dir
+/home/ahmed/Desktop/Cpp-System-Monitor-Project/build/CMakeFiles/monitor.dir
